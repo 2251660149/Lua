@@ -1,0 +1,13 @@
+..\obj\lutf8lib.o: ..\Lua\lutf8lib.c
+..\obj\lutf8lib.o: ..\Lua\lprefix.h
+..\obj\lutf8lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\obj\lutf8lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lutf8lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lutf8lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\lutf8lib.o: ..\Lua\lua.h
+..\obj\lutf8lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lutf8lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lutf8lib.o: ..\Lua\luaconf.h
+..\obj\lutf8lib.o: ..\Lua\lauxlib.h
+..\obj\lutf8lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\lutf8lib.o: ..\Lua\lualib.h

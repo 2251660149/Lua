@@ -1,0 +1,10 @@
+..\obj\ltablib.o: ..\lua\ltablib.c
+..\obj\ltablib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\ltablib.o: ..\lua\lua.h
+..\obj\ltablib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\ltablib.o: ..\lua\luaconf.h
+..\obj\ltablib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\ltablib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\ltablib.o: ..\lua\lauxlib.h
+..\obj\ltablib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\ltablib.o: ..\lua\lualib.h

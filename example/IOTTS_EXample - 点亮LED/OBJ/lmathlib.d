@@ -1,0 +1,12 @@
+..\obj\lmathlib.o: ..\Lua\src\lmathlib.c
+..\obj\lmathlib.o: ..\Lua\src\lprefix.h
+..\obj\lmathlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lmathlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\lmathlib.o: ..\Lua\src\lua.h
+..\obj\lmathlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lmathlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lmathlib.o: ..\Lua\src\luaconf.h
+..\obj\lmathlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lmathlib.o: ..\Lua\src\lauxlib.h
+..\obj\lmathlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\lmathlib.o: ..\Lua\src\lualib.h

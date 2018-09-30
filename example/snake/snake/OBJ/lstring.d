@@ -1,0 +1,17 @@
+..\obj\lstring.o: ..\lua\lstring.c
+..\obj\lstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\lstring.o: ..\lua\lua.h
+..\obj\lstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lstring.o: ..\lua\luaconf.h
+..\obj\lstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lstring.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\lstring.o: ..\lua\lmem.h
+..\obj\lstring.o: ..\lua\llimits.h
+..\obj\lstring.o: ..\lua\lobject.h
+..\obj\lstring.o: ..\lua\lstate.h
+..\obj\lstring.o: ..\lua\ltm.h
+..\obj\lstring.o: ..\lua\lzio.h
+..\obj\lstring.o: ..\lua\lstring.h
+..\obj\lstring.o: ..\lua\lgc.h

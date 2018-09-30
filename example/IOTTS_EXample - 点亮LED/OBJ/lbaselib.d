@@ -1,0 +1,13 @@
+..\obj\lbaselib.o: ..\Lua\src\lbaselib.c
+..\obj\lbaselib.o: ..\Lua\src\lprefix.h
+..\obj\lbaselib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\lbaselib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\lbaselib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lbaselib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\lbaselib.o: ..\Lua\src\lua.h
+..\obj\lbaselib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lbaselib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lbaselib.o: ..\Lua\src\luaconf.h
+..\obj\lbaselib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lbaselib.o: ..\Lua\src\lauxlib.h
+..\obj\lbaselib.o: ..\Lua\src\lualib.h

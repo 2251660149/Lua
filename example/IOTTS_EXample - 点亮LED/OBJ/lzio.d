@@ -1,0 +1,15 @@
+..\obj\lzio.o: ..\Lua\src\lzio.c
+..\obj\lzio.o: ..\Lua\src\lprefix.h
+..\obj\lzio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\lzio.o: ..\Lua\src\lua.h
+..\obj\lzio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lzio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lzio.o: ..\Lua\src\luaconf.h
+..\obj\lzio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lzio.o: ..\Lua\src\llimits.h
+..\obj\lzio.o: ..\Lua\src\lmem.h
+..\obj\lzio.o: ..\Lua\src\lstate.h
+..\obj\lzio.o: ..\Lua\src\lobject.h
+..\obj\lzio.o: ..\Lua\src\ltm.h
+..\obj\lzio.o: ..\Lua\src\lzio.h
+..\obj\lzio.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\signal.h

@@ -1,0 +1,10 @@
+..\obj\lbitlib.o: ..\Lua\lbitlib.c
+..\obj\lbitlib.o: ..\Lua\lprefix.h
+..\obj\lbitlib.o: ..\Lua\lua.h
+..\obj\lbitlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lbitlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lbitlib.o: ..\Lua\luaconf.h
+..\obj\lbitlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lbitlib.o: ..\Lua\lauxlib.h
+..\obj\lbitlib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\lbitlib.o: ..\Lua\lualib.h

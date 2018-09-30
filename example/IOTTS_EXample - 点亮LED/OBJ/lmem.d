@@ -1,0 +1,17 @@
+..\obj\lmem.o: ..\Lua\src\lmem.c
+..\obj\lmem.o: ..\Lua\src\lprefix.h
+..\obj\lmem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lmem.o: ..\Lua\src\lua.h
+..\obj\lmem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lmem.o: ..\Lua\src\luaconf.h
+..\obj\lmem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lmem.o: ..\Lua\src\ldebug.h
+..\obj\lmem.o: ..\Lua\src\lstate.h
+..\obj\lmem.o: ..\Lua\src\lobject.h
+..\obj\lmem.o: ..\Lua\src\llimits.h
+..\obj\lmem.o: ..\Lua\src\ltm.h
+..\obj\lmem.o: ..\Lua\src\lzio.h
+..\obj\lmem.o: ..\Lua\src\lmem.h
+..\obj\lmem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\signal.h
+..\obj\lmem.o: ..\Lua\src\ldo.h
+..\obj\lmem.o: ..\Lua\src\lgc.h

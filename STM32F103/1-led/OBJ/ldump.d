@@ -1,0 +1,15 @@
+..\obj\ldump.o: ..\Lua\ldump.c
+..\obj\ldump.o: ..\Lua\lprefix.h
+..\obj\ldump.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\ldump.o: ..\Lua\lua.h
+..\obj\ldump.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\ldump.o: ..\Lua\luaconf.h
+..\obj\ldump.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\ldump.o: ..\Lua\lobject.h
+..\obj\ldump.o: ..\Lua\llimits.h
+..\obj\ldump.o: ..\Lua\lstate.h
+..\obj\ldump.o: ..\Lua\ltm.h
+..\obj\ldump.o: ..\Lua\lzio.h
+..\obj\ldump.o: ..\Lua\lmem.h
+..\obj\ldump.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\signal.h
+..\obj\ldump.o: ..\Lua\lundump.h

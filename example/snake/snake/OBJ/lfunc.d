@@ -1,0 +1,16 @@
+..\obj\lfunc.o: ..\lua\lfunc.c
+..\obj\lfunc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lfunc.o: ..\lua\lua.h
+..\obj\lfunc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lfunc.o: ..\lua\luaconf.h
+..\obj\lfunc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lfunc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lfunc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+..\obj\lfunc.o: ..\lua\lfunc.h
+..\obj\lfunc.o: ..\lua\lobject.h
+..\obj\lfunc.o: ..\lua\llimits.h
+..\obj\lfunc.o: ..\lua\lgc.h
+..\obj\lfunc.o: ..\lua\lmem.h
+..\obj\lfunc.o: ..\lua\lstate.h
+..\obj\lfunc.o: ..\lua\ltm.h
+..\obj\lfunc.o: ..\lua\lzio.h

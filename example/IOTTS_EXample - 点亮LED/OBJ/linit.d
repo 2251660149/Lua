@@ -1,0 +1,10 @@
+..\obj\linit.o: ..\Lua\src\linit.c
+..\obj\linit.o: ..\Lua\src\lprefix.h
+..\obj\linit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\linit.o: ..\Lua\src\lua.h
+..\obj\linit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\linit.o: ..\Lua\src\luaconf.h
+..\obj\linit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\linit.o: ..\Lua\src\lualib.h
+..\obj\linit.o: ..\Lua\src\lauxlib.h
+..\obj\linit.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

@@ -1,0 +1,10 @@
+..\obj\lopcodes.o: ..\lua\lopcodes.c
+..\obj\lopcodes.o: ..\lua\lopcodes.h
+..\obj\lopcodes.o: ..\lua\llimits.h
+..\obj\lopcodes.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lopcodes.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lopcodes.o: ..\lua\lua.h
+..\obj\lopcodes.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lopcodes.o: ..\lua\luaconf.h
+..\obj\lopcodes.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lopcodes.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

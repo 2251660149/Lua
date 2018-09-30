@@ -1,0 +1,11 @@
+..\obj\lcorolib.o: ..\Lua\src\lcorolib.c
+..\obj\lcorolib.o: ..\Lua\src\lprefix.h
+..\obj\lcorolib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\lcorolib.o: ..\Lua\src\lua.h
+..\obj\lcorolib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lcorolib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lcorolib.o: ..\Lua\src\luaconf.h
+..\obj\lcorolib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lcorolib.o: ..\Lua\src\lauxlib.h
+..\obj\lcorolib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\lcorolib.o: ..\Lua\src\lualib.h
